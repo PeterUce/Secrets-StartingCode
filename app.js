@@ -6,7 +6,7 @@ const ejs = require("ejs");
 const mongoose = require("mongoose");
 const encrypt = require('mongoose-encryption');
 
-//Hello 
+//Hello Man
 var i = 5;
 const app = express();
 
